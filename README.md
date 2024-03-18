@@ -2,6 +2,6 @@
 
 - :mortar_board: Computer Science student at [UNESC](https://www.unesc.net).
 - :bowing_man: Dev student, exploring and having fun.
-- :open_book: Currently learning PostgreSQL.
+- :open_book: Always learning.
 
 
